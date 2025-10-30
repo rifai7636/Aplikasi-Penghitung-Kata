@@ -5,10 +5,7 @@ import javax.swing.JOptionPane;
 import java.io.FileWriter;
 import java.io.IOException;
 
-/**
- *
- * @author Achmad Rafiq Syaddid
- */
+
 public class AplikasiPenghitungKata extends javax.swing.JFrame {
     
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(AplikasiPenghitungKata.class.getName());
